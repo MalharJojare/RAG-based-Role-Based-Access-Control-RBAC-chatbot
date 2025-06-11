@@ -59,19 +59,7 @@ finchatbot/
 ## 🛠️ Setup Instructions
 
 1. **Clone Repo**
-```bash
-git clone https://github.com/MalharJojare/finchatbot.git
-cd finchatbot
-
 2. **Create Virtual Environment**
-python -m venv venv
-venv\Scripts\activate  # or `source venv/bin/activate` on Mac/Linux
-
 3. **Install Dependencies**
-pip install -r requirements.txt
-
-4. **Create .env File**
-HUGGINGFACEHUB_API_TOKEN=your_token_here
-
-5. **Run the App**
-streamlit run ui/streamlit_app.py
+4. **Edit .env File**
+5. **Run the App** - streamlit run ui/streamlit_app.py
